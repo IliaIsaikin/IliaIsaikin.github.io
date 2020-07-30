@@ -5,7 +5,7 @@
 ### Data Analytics Projects
 
 [911 Calls - Descriptive Analytics Project](/pdf/911 Calls - Descriptive Analytics Project.pdf)
-<img src="images/small_calls_map-2.png?raw=true"/>
+<img src="images/calls_heatmap_3.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
