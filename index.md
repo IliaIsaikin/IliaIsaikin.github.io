@@ -2,7 +2,7 @@
 
 ---
 
-### Analytical Projects
+### Data Analytics Projects
 
 [911 Calls - Descriptive Analytics Project](/sample_page)
 <img src="images/small_calls_map-2.png?raw=true"/>
