@@ -15,7 +15,7 @@
 
 ### Consulting Projects
 
-[GrubHub Strategic Analysis and Recommendation - Consulting Case Competition](/pdf/GRUBHUB Slides.pdf)
+[GrubHub Strategic Analysis and Recommendation - Consulting Case Competition 2nd Prize](/pdf/GRUBHUB Slides.pdf)
 <img src="images/grubhub_collage.png?raw=true"/>
 
 ---
