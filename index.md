@@ -8,8 +8,8 @@
 <img src="images/reseized_collage.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Madagascar Disaster Damage Analysis - Seneca Park Zoo](https://public.tableau.com/profile/ilia.isaikin#!/vizhome/SenecaParkZoo-MadagascarDisasterAnalysis/Disaster_Damage_2?publish=yes)
+<img src="images/Disaster_Damage_2.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
