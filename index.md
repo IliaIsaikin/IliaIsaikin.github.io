@@ -8,7 +8,7 @@
 <img src="images/reseized_collage.jpg?raw=true"/>
 
 ---
-[Madagascar Disaster Damage Analysis - Seneca Park Zoo](/pdf/Seneca Park Final Presentation.pdf)
+[Analyzing Madagascar Data to Improve Reforestation and Increase Sponsorship - Seneca Park Zoo](/pdf/Seneca Park Final Presentation.pdf)
 <img src="images/Disaster_Damage_2.png?raw=true"/>
 
 ---
