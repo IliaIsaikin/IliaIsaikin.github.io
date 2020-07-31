@@ -10,7 +10,7 @@
 ---
 [Analyzing Madagascar Data to Improve Reforestation and Increase Sponsorship - Seneca Park Zoo](/pdf/Seneca Park Final Presentation.pdf)
 <img src="images/Disaster_Damage_2.png?raw=true"/>
-*[Talbeau Workbook Link](https://public.tableau.com/profile/ilia.isaikin#!/vizhome/SenecaParkZoo-MadagascarDisasterAnalysis/Disaster_Damage_2)*
+*[Tableau Workbook Link](https://public.tableau.com/profile/ilia.isaikin#!/vizhome/SenecaParkZoo-MadagascarDisasterAnalysis/Disaster_Damage_2)*
 
 ---
 
