@@ -8,12 +8,8 @@
 <img src="images/reseized_collage.jpg?raw=true"/>
 
 ---
-[Madagascar Disaster Damage Analysis - Seneca Park Zoo](/Seneca Park Final Presentation.pptx)
+[Madagascar Disaster Damage Analysis - Seneca Park Zoo](/pdf/Seneca Park Final Presentation.pdf)
 <img src="images/Disaster_Damage_2.png?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
