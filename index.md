@@ -8,7 +8,7 @@
 <img src="images/reseized_collage.jpg?raw=true"/>
 
 ---
-[Madagascar Disaster Damage Analysis - Seneca Park Zoo](https://public.tableau.com/profile/ilia.isaikin#!/vizhome/SenecaParkZoo-MadagascarDisasterAnalysis/Disaster_Damage_2?publish=yes)
+[Madagascar Disaster Damage Analysis - Seneca Park Zoo](/Seneca Park Final Presentation.pptx)
 <img src="images/Disaster_Damage_2.png?raw=true"/>
 
 ---
