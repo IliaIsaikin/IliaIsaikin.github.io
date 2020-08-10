@@ -4,7 +4,7 @@
 
 ### Data Analytics Projects
 
-[NLP Classification - Predicting Review Ratings on the Yelp Reviews Dataset](/pdf/911 Calls - Descriptive Analytics Project.pdf)
+[NLP Classification - Predicting Review Ratings on the Yelp Reviews Dataset](/pdf/NLP Project - Yelp Reviews.pdf)
 <img src="images/wordcloud_image2.png?raw=true"/>
 
 ---
