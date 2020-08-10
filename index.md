@@ -5,7 +5,7 @@
 ### Data Analytics Projects
 
 [NLP Project - Predicting Movie Ratings using Yelp Reviews](/pdf/911 Calls - Descriptive Analytics Project.pdf)
-<img src="images/wordcloud_like.png?raw=true"/>
+<img src="images/wordcloud_like2.png?raw=true"/>
 
 ---
 [911 Calls of Montgomery County, PA - Descriptive Analytics Project](/pdf/911 Calls - Descriptive Analytics Project.pdf)
