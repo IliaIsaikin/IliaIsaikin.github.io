@@ -5,7 +5,7 @@
 ### Data Analytics Projects
 
 [Loan Default Prediction using Deep Neural Network Model](/pdf/Deep Learning Project - Predicting Loan Default.pdf)
-<img src="images/network_image.jpeg?raw=true"/>
+<img src="images/network_image_2.jpeg?raw=true"/>
 
 ---
 [NLP Classification - Predicting Review Ratings on the Yelp Reviews Data](/pdf/NLP Project - Yelp Reviews.pdf)
