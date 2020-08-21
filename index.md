@@ -4,7 +4,11 @@
 
 ### Data Analytics Projects
 
-[NLP Classification - Predicting Review Ratings on the Yelp Reviews Dataset](/pdf/NLP Project - Yelp Reviews.pdf)
+[Loan Default Prediction using Deep Neural Network Model](/pdf/Deep Learning Project - Predicting Loan Default.pdf)
+<img src="images/network_image.jpeg?raw=true"/>
+
+---
+[NLP Classification - Predicting Review Ratings on the Yelp Reviews Data](/pdf/NLP Project - Yelp Reviews.pdf)
 <img src="images/wordcloud_image2.png?raw=true"/>
 
 ---
